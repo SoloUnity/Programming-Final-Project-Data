@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "category": "Python",
+    "content": {
+      "id": 0,
+      "image": "python",
+      "time": "2 Months",
+      "description": "A second level programming course covering parts of a university level data structures course",
+      "lessons": [
+        {
+          "id": 0,
+          "title": "Introduction and review",
+          "video": "https://www.youtube.com/watch?v=rfscVS0vtbw&t=11562s",
+          "pages": "58"
+        },
+        {
+          "id": 1,
+          "title": "Linked lists",
+          "video": "https://www.youtube.com/watch?v=WwfhLC16bis",
+          "pages": "15"
+        },
+        {
+          "id": 2,
+          "title": "Stacks and queues",
+          "video": "https://www.youtube.com/watch?v=A3ZUpyrnCbM",
+          "pages": "33"
+        },
+        {
+          "id": 3,
+          "title": "Sorting algorithms",
+          "video": "https://www.youtube.com/watch?v=ZZuD6iUe3Pc",
+          "pages": "32"
+        },
+        {
+          "id": 4,
+          "title": "Analysis of algorithms",
+          "video": "https://www.youtube.com/watch?v=D6xkbGLQesk",
+          "pages": "14"
+        },
+        {
+          "id": 5,
+          "title": "Heaps and priority queues",
+          "video": "https://www.youtube.com/watch?v=pLIajuc31qk",
+          "pages": "34"
+        },
+        {
+          "id": 6,
+          "title": "Binary search trees",
+          "video": "https://www.youtube.com/watch?v=edfGASf_QxE",
+          "pages": "32"
+        },
+        {
+          "id": 7,
+          "title": "Graphs and graph algorithms",
+          "video": "https://www.youtube.com/watch?v=zaBhtODEL0w&t=333s",
+          "pages": "52"
+        },
+        {
+          "id": 8,
+          "title": "String search and regular expressions",
+          "video": "https://www.youtube.com/watch?v=UQQsYXa1EHs",
+          "pages": "35"
+        },
+        {
+          "id": 9,
+          "title": "AI and machine learning",
+          "video": "https://www.youtube.com/watch?v=z-EtmaFJieY&t=364s",
+          "pages": "68"
+        },
+        {
+          "id": 10,
+          "title": "Hash functions and tables",
+          "video": "https://www.youtube.com/watch?v=MfhjkfocRR0&t=349s",
+          "pages": "21"
+        }
+      ]
+    }
+  }
+]
